@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8306
     wikipedia: http://en.wikipedia.org/wiki/Alec_Waugh
 description: 'Also published as "Roland Whately," #52020.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43952#The-Lonely-UnicornA-novel
 gutenberg_issued: '2013-10-16'
 gutenberg_type: Text
 identifiers:
